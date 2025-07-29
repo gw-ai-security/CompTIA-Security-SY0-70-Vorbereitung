@@ -1,1 +1,1 @@
-# Security-CompTIA-SY0-70-Vorbereitung1
+# Security-CompTIA-SY0-70-Vorbereitung
